@@ -20,14 +20,7 @@ public class SistemaComercio {
      */
     public static void main(String[] args) {
         
-    Pedidos pedidos = new Pedidos();
-    pedidos.getProductos();
-     
-    pedidos.agregarProducto(new Ropa("kkl", "rojo", "111", "poleron", 40000));
-    pedidos.agregarProducto(new Electronico("samsuning", 50, "44444", "s56", 100000));
-    pedidos.mostrarPedidos();
     
-        
         
     }   
     
